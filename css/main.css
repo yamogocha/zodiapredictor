@@ -1,0 +1,22 @@
+body{
+	background:url("../img/background.jpg") center center no-repeat;
+	margin:0;
+	width:100%;
+	height:auto;
+	text-align:center;
+	font-family:"KRAstro1";
+	color:white !important;
+}
+button{
+	background-color: rgb(51, 71, 183) !important;
+}
+
+#details{
+	font-size:30px !important;
+	padding: 20px 50px;
+}
+
+@font-face{
+	font-family:"KRAstro1";
+	src:url("KRAstro1.ttf");
+}
